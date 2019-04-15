@@ -42,7 +42,7 @@ The Dockerfiles and associated scripts found in this project are licensed under 
 # i.e aarch64, ppc64le, s390x and x86_64.
 
 # 1. Clone this github repo
-     $ git clone https://github.com/AdoptOpenJDK/openjdk-docker
+     $ git clone https://github.com/unixlabs/openjdk-docker
 
 # 2. Build images and tag them appropriately
      $ cd openjdk-docker
